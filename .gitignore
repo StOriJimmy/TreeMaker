@@ -28,3 +28,4 @@
 *.app
 
 *.DS_Store
+msw/gcc_debug/
